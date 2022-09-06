@@ -514,6 +514,11 @@ hacks:
            lore:
             - "This will help you"
             - "get on track."
+  OneTimeTeleport:
+    enabled: true
+    material_blacklist:
+      - OBSIDIAN
+    ott_timeout: 2d            
   ReinforcedChestBreak:
     enabled: true    
     # in seconds
