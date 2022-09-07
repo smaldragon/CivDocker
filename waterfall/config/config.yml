@@ -15,7 +15,9 @@ listeners:
 remote_ping_cache: -1
 network_compression_threshold: 256
 permissions:
-  default: null
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
 log_pings: true
 connection_throttle_limit: 3
 prevent_proxy_connections: false
