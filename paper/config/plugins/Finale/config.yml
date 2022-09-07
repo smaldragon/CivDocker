@@ -237,7 +237,7 @@ velocity:
 #of projectiles to the list to revert their behavior regarding initial velocity to 1.7
   ENDER_PEARL:
      type: REVERTED
-     power: 1.4
+     power: 1.2
   SPLASH_POTION:
      type: REVERTED
      power: 0.5
